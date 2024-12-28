@@ -3,7 +3,7 @@ This study analyses multimodal data consisting of Continuous Glucose Monitor rea
 
 Model Architecture-
 
-![Model Architecture](/Model Architecture.jpg)
+![Model Architecture](Model Architecture.jpg)
 
 
 Abstract - 
